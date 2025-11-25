@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">Album - Dayglo Abortions Tablature</title>
+    <meta name="description" content="Bass and guitar tabs for Dayglo Abortions album tracks. Interactive tab viewer with multiple versions, Songsterr links, and Ultimate Guitar integration.">
+    <meta name="keywords" content="Dayglo Abortions album tabs, bass tabs, guitar tabs, punk rock tablature">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="music.album">
+    <meta property="og:url" id="og-url" content="">
+    <meta property="og:title" id="og-title" content="Album - Dayglo Abortions Tablature">
+    <meta property="og:description" id="og-description" content="Bass and guitar tabs for Dayglo Abortions album tracks.">
+    <meta property="og:image" id="og-image" content="">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" id="twitter-title" content="Album - Dayglo Abortions Tablature">
+    <meta property="twitter:description" id="twitter-description" content="Guitar tabs for Dayglo Abortions album tracks.">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" id="canonical-url" href="">
+    
+    <!-- Google Analytics (gtag.js) -->
+    <!-- TODO: Replace YOUR_GA4_MEASUREMENT_ID with your actual Google Analytics 4 ID (format: G-XXXXXXXXXX) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_GA4_MEASUREMENT_ID"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'YOUR_GA4_MEASUREMENT_ID');
+    </script>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon.ico">
+
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="album.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- AlphaTab for Guitar Pro file rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/@coderline/alphatab@latest/dist/alphaTab.min.js"></script>
+</head>
+<body>
+    <!-- Album Parallax Background -->
+    <div class="album-parallax">
+        <div class="album-parallax-image" id="parallax-bg"></div>
+        <div class="album-parallax-overlay"></div>
+    </div>
+    
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="container">
+                <!-- Breadcrumb Navigation -->
+                <nav class="breadcrumb" aria-label="breadcrumb">
+                    <ol class="breadcrumb-list">
+                        <li class="breadcrumb-item">
+                            <a href="index.html">Home</a>
+                        </li>
+                        <li class="breadcrumb-item">
+                            <span id="breadcrumb-category">Albums</span>
+                        </li>
+                        <li class="breadcrumb-item active" aria-current="page">
+                            <span id="breadcrumb-album">Loading...</span>
+                        </li>
+                    </ol>
+                </nav>
+                
+                <div class="header-content">
+                    <div class="header-left">
+                        <a href="index.html" class="back-button">
+                            <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+                            </svg>
+                            Back to Albums
+                        </a>
+                        <h1 class="logo">
+                            <span class="logo-text" id="album-title">Loading...</span>
+                            <span class="logo-subtitle" id="album-subtitle"></span>
+                        </h1>
+                    </div>
+                    <div class="header-stats" id="album-stats">
+                        <!-- Stats will be populated by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main">
+            <div class="container">
+                <!-- Album Header -->
+                <section class="album-header">
+                    <div class="album-artwork-large" id="album-artwork">
+                        <!-- Artwork will be populated by JavaScript -->
+                    </div>
+                    <div class="album-info-large">
+                        <div class="album-meta">
+                            <span class="album-year" id="album-year"></span>
+                            <span class="album-type" id="album-type">Studio Album</span>
+                        </div>
+                        <h1 class="album-title-large" id="album-title-large"></h1>
+                        <p class="album-description-large" id="album-description"></p>
+                        <div class="album-actions">
+                            <button class="btn btn-primary btn-youtube" id="play-all-btn">
+                                <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+                                    <path d="M6.271 5.055a.5.5 0 0 1 .52.038L11 7.055a.5.5 0 0 1 0 .89L6.791 9.907a.5.5 0 0 1-.791-.389V5.5a.5.5 0 0 1 .271-.445z"/>
+                                </svg>
+                                Listen on YouTube
+                            </button>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Track List -->
+                <section class="track-list">
+                    <div class="track-list-header">
+                        <h2>Track List</h2>
+                        <div class="track-list-filters">
+                            <button class="filter-btn active" data-filter="all">All Tracks</button>
+                            <button class="filter-btn" data-filter="bass">Bass Tabs</button>
+                            <button class="filter-btn" data-filter="guitar">Guitar Tabs</button>
+                            <button class="filter-btn" data-filter="interactive">Interactive</button>
+                        </div>
+                    </div>
+                    <div class="tracks" id="track-container">
+                        <!-- Tracks will be populated by JavaScript -->
+                    </div>
+                </section>
+
+                <!-- Tab Resources -->
+                <section class="tab-resources">
+                    <h2>Available Tab Resources</h2>
+                    <div class="resource-grid" id="resource-grid">
+                        <!-- Resources will be populated by JavaScript -->
+                    </div>
+                </section>
+            </div>
+        </main>
+
+        <!-- Track Detail Modal -->
+        <div class="modal" id="track-modal">
+            <div class="modal-backdrop" id="modal-backdrop"></div>
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 id="modal-track-title"></h3>
+                    <button class="modal-close" id="modal-close">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+                            <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
+                        </svg>
+                    </button>
+                </div>
+                <div class="modal-body" id="modal-body">
+                    <!-- Tab content will be loaded here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container">
+                <p>&copy; 2024 Dayglo Abortions Tablature. Tabs compiled from various sources with proper attribution.</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="script.js?v=20251125"></script>
+    <script src="alphatab.js?v=20251125"></script>
+    <script src="singles.js?v=20251125"></script>
+    <script src="enhanced_features.js?v=20251125"></script>
+    <script src="album.js?v=20251125"></script>
+    <script src="album-page.js?v=20251125"></script>
+</body>
+</html>
