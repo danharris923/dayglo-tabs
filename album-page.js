@@ -323,13 +323,6 @@ class AlbumPageManager {
                 </a>
             </div>
             <div class="resource-item">
-                <h4>Ultimate Guitar</h4>
-                <p>Community-driven tab collection</p>
-                <a href="https://www.ultimate-guitar.com/search.php?search_type=title&value=${encodeURIComponent('Dayglo Abortions')}" target="_blank" class="btn btn-secondary">
-                    Visit Ultimate Guitar
-                </a>
-            </div>
-            <div class="resource-item">
                 <h4>YouTube</h4>
                 <p>Video performances and lessons</p>
                 <a href="https://www.youtube.com/results?search_query=${encodeURIComponent('Dayglo Abortions ' + this.currentAlbum.title)}" target="_blank" class="btn btn-secondary">
