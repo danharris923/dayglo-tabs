@@ -141,9 +141,10 @@ class AlbumPageManager {
             'my-kingdom-on-earth', 'my-mother-was-a-man', 'one-cheque-from-the-street',
             'scared-of-people', 'sit-on-my-face-and-bleed', 'squeegee-night-in-canada',
             'the-spawn-of-yog-sothoth', 'used-to-be-in-love', 'wake-up-america',
-            'when-the-big-hand-meets-the-little-hand', 'wheres-bin-laden'
+            'when-the-big-hand-meets-the-little-hand', 'wheres-bin-laden',
+            'white-anglo-saxon-protestant'
         ];
-        
+
         const showUGLinks = ugOnlySongs.includes(songKey);
         const showSongsterrLinks = songKey === 'proud-to-be-a-canadian';
         
@@ -237,7 +238,8 @@ class AlbumPageManager {
                 'lets-get-drunk', 'little-man-in-the-canoe', 'man-bites-dog', 'my-kingdom-on-earth',
                 'my-mother-was-a-man', 'one-cheque-from-the-street', 'scared-of-people',
                 'sit-on-my-face-and-bleed', 'squeegee-night-in-canada', 'the-spawn-of-yog-sothoth',
-                'used-to-be-in-love', 'wake-up-america', 'when-the-big-hand-meets-the-little-hand', 'wheres-bin-laden'
+                'used-to-be-in-love', 'wake-up-america', 'when-the-big-hand-meets-the-little-hand', 'wheres-bin-laden',
+                'white-anglo-saxon-protestant'
             ];
 
             const showUGLink = ugSongs.includes(songKey) && ugFinalLinkToUse;
@@ -425,9 +427,10 @@ class AlbumPageManager {
             'my-kingdom-on-earth', 'my-mother-was-a-man', 'one-cheque-from-the-street',
             'scared-of-people', 'sit-on-my-face-and-bleed', 'squeegee-night-in-canada',
             'the-spawn-of-yog-sothoth', 'used-to-be-in-love', 'wake-up-america',
-            'when-the-big-hand-meets-the-little-hand', 'wheres-bin-laden'
+            'when-the-big-hand-meets-the-little-hand', 'wheres-bin-laden',
+            'white-anglo-saxon-protestant'
         ];
-        
+
         // Check if tab exists in tabData
         let tabContent = null;
         if (typeof tabData !== 'undefined') {
