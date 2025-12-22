@@ -146,15 +146,17 @@ function generateTrackList(album) {
     // Show one button - prioritize GP, then text tab
     let button = '';
     if (track.gpFile) {
-      button = `<a href="/tabs/${track.id}.html" class="btn btn-primary btn-gp">Guitar Pro</a>`;
+      button = `<span class="btn btn-primary btn-gp">Guitar Pro</span>`;
     } else if (track.tabFile) {
-      button = `<a href="/tabs/${track.id}.html" class="btn btn-secondary">Text Tab</a>`;
+      button = `<span class="btn btn-secondary">Text Tab</span>`;
     } else if (track.hasBass || track.hasGuitar) {
-      button = `<a href="/tabs/${track.id}.html" class="btn btn-primary">Tab</a>`;
+      button = `<span class="btn btn-primary">Tab</span>`;
     }
 
-    return `
-                        <div class="track-item${hasTab ? '' : ' no-tab'}">
+    // Make entire row clickable if tab exists
+    if (hasTab) {
+      return `
+                        <a href="/tabs/${track.id}.html" class="track-item track-link">
                             <div class="track-info">
                                 <div class="track-number">${trackNum}</div>
                                 <div class="track-details">
@@ -164,7 +166,20 @@ function generateTrackList(album) {
                             <div class="track-actions">
                                 ${button}
                             </div>
+                        </a>`;
+    } else {
+      return `
+                        <div class="track-item no-tab">
+                            <div class="track-info">
+                                <div class="track-number">${trackNum}</div>
+                                <div class="track-details">
+                                    <h3 class="track-title">${track.title}</h3>
+                                </div>
+                            </div>
+                            <div class="track-actions">
+                            </div>
                         </div>`;
+    }
   }).join('');
 }
 
