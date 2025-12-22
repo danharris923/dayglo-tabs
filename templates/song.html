@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{SONG_TITLE}} - {{TAB_TYPE}} Tab | Dayglo Abortions Tabs</title>
+    <meta name="description" content="{{TAB_TYPE}} tablature for {{SONG_TITLE}} by Dayglo Abortions from {{ALBUM_TITLE}} ({{ALBUM_YEAR}}). Free accurate tab with Guitar Pro playback.">
+    <meta name="keywords" content="Dayglo Abortions, {{SONG_TITLE}}, guitar tab, bass tab, {{ALBUM_TITLE}}">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="music.song">
+    <meta property="og:url" content="https://dayglotabs.com/tabs/{{SONG_SLUG}}.html">
+    <meta property="og:title" content="{{SONG_TITLE}} - {{TAB_TYPE}} Tab | Dayglo Tabs">
+    <meta property="og:description" content="{{TAB_TYPE}} tablature for {{SONG_TITLE}} by Dayglo Abortions.">
+    <meta property="og:image" content="https://dayglotabs.com/{{ALBUM_COVER}}">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{SONG_TITLE}} - Dayglo Abortions Tab">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://dayglotabs.com/tabs/{{SONG_SLUG}}.html">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MusicRecording",
+      "name": "{{SONG_TITLE}}",
+      "byArtist": {
+        "@type": "MusicGroup",
+        "name": "Dayglo Abortions",
+        "genre": ["Hardcore Punk", "Punk Rock"]
+      },
+      "inAlbum": {
+        "@type": "MusicAlbum",
+        "name": "{{ALBUM_TITLE}}",
+        "datePublished": "{{ALBUM_YEAR}}"
+      }
+    }
+    </script>
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/tab-player.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="container">
+                <div class="header-content">
+                    <a href="/" class="logo">
+                        <span class="logo-text">dayglo tabs</span>
+                    </a>
+                </div>
+            </div>
+        </header>
+
+        <main class="main">
+            <div class="container">
+                <!-- Breadcrumb -->
+                <nav class="breadcrumb">
+                    <ol class="breadcrumb-list">
+                        <li class="breadcrumb-item"><a href="/">Home</a></li>
+                        <li class="breadcrumb-item"><a href="/albums/{{ALBUM_ID}}.html">{{ALBUM_TITLE}}</a></li>
+                        <li class="breadcrumb-item active">{{SONG_TITLE}}</li>
+                    </ol>
+                </nav>
+
+                <!-- Song Header -->
+                <section class="song-header">
+                    <div class="song-meta">
+                        <span class="album-name">{{ALBUM_TITLE}}</span>
+                        <span class="separator">•</span>
+                        <span class="year">{{ALBUM_YEAR}}</span>
+                    </div>
+                    <h1 class="song-title">{{SONG_TITLE}}</h1>
+                    <div class="resource-badges">
+                        {{BADGES}}
+                    </div>
+                    <div class="streaming-links">
+                        <a href="https://open.spotify.com/search/Dayglo%20Abortions%20{{SONG_TITLE_URL}}" target="_blank" rel="noopener noreferrer" class="streaming-btn spotify">
+                            <svg viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+                            Spotify
+                        </a>
+                        <a href="{{BANDCAMP_URL}}" target="_blank" rel="noopener noreferrer" class="streaming-btn bandcamp" {{BANDCAMP_DISPLAY}}>
+                            <svg viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M0 18.75l7.437-13.5H24l-7.438 13.5H0z"/></svg>
+                            Bandcamp
+                        </a>
+                    </div>
+                </section>
+
+                <!-- Tab Player -->
+                {{GP_PLAYER}}
+
+                <!-- Text Tab -->
+                {{TEXT_TAB}}
+
+                <!-- External Links -->
+                <section class="external-links">
+                    <h3>Find More Tabs</h3>
+                    <div class="link-grid">
+                        <a href="https://www.ultimate-guitar.com/search.php?search_type=title&value={{SONG_TITLE_URL}}"
+                           target="_blank" rel="noopener noreferrer" class="external-link">
+                            Ultimate Guitar
+                        </a>
+                    </div>
+                </section>
+
+                <!-- More from Album -->
+                <section class="more-from-album">
+                    <h3>More from {{ALBUM_TITLE}}</h3>
+                    <div class="album-tracks">
+                        {{ALBUM_TRACKS}}
+                    </div>
+                </section>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container">
+                <p>&copy; 2024 Dayglo Abortions Tabs.</p>
+            </div>
+        </footer>
+    </div>
+
+    {{GP_SCRIPTS}}
+</body>
+</html>

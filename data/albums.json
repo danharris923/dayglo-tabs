@@ -1,0 +1,1361 @@
+[
+  {
+    "id": "out-of-the-womb",
+    "title": "Out of the Womb",
+    "year": 1981,
+    "cover": "images/albums/out-of-the-womb.jpg",
+    "description": "The raw debut album that launched Canadian hardcore punk into the spotlight.",
+    "tracks": [
+      {
+        "id": "r-b-f-s",
+        "title": "R.B.F.'s",
+        "trackNumber": 1,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "1967",
+        "title": "1967",
+        "trackNumber": 2,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/1967.txt"
+      },
+      {
+        "id": "scared-of-people",
+        "title": "Scared Of People",
+        "trackNumber": 3,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/scared-of-people.txt"
+      },
+      {
+        "id": "black-sabbath",
+        "title": "Black Sabbath",
+        "trackNumber": 4,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/black-sabbath.txt"
+      },
+      {
+        "id": "used-to-be-in-love",
+        "title": "Used To Be In Love",
+        "trackNumber": 5,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/used-to-be-in-love.txt"
+      },
+      {
+        "id": "i-killed-mommy",
+        "title": "I Killed Mommy",
+        "trackNumber": 6,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/i-killed-mommy.txt"
+      },
+      {
+        "id": "p-e-t",
+        "title": "P.E.T.",
+        "trackNumber": 7,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "east-indian",
+        "title": "East Indian",
+        "trackNumber": 8,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "kill-the-hosers",
+        "title": "Kill The Hosers",
+        "trackNumber": 9,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": "gp/Dayglo Abortions-Kill The Hosers-10-08-2025.gp",
+        "tabFile": "tabs-txt/kill-the-hosers.txt"
+      },
+      {
+        "id": "too-stoned-to-care",
+        "title": "Too Stoned To Care",
+        "trackNumber": 10,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "suicide",
+        "title": "Suicide",
+        "trackNumber": 11,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/suicide.txt"
+      },
+      {
+        "id": "idiot",
+        "title": "Idiot",
+        "trackNumber": 12,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "i-am-my-own-god",
+        "title": "I Am My Own God",
+        "trackNumber": 13,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/i-am-my-own-god.txt"
+      },
+      {
+        "id": "germ-attack",
+        "title": "Germ Attack",
+        "trackNumber": 14,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/germ-attack.txt"
+      }
+    ]
+  },
+  {
+    "id": "feed-us-a-fetus",
+    "title": "Feed Us a Fetus",
+    "year": 1986,
+    "cover": "images/albums/feed-us-a-fetus.jpg",
+    "description": "The controversial album that cemented their reputation as punk provocateurs.",
+    "tracks": [
+      {
+        "id": "stupid-songs",
+        "title": "Stupid Songs",
+        "trackNumber": 1,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/stupid-songs.txt"
+      },
+      {
+        "id": "argh-fuck-kill",
+        "title": "Argh Fuck Kill",
+        "trackNumber": 2,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/argh-fuck-kill.txt"
+      },
+      {
+        "id": "die-sinner-die",
+        "title": "Die Sinner Die",
+        "trackNumber": 3,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/die-sinner-die.txt"
+      },
+      {
+        "id": "bedtime-story",
+        "title": "Bedtime Story",
+        "trackNumber": 4,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": "gp/Dayglo Abortions-Bedtime Story-10-20-2025.gp",
+        "tabFile": "tabs-txt/bedtime-story.txt"
+      },
+      {
+        "id": "my-girl",
+        "title": "My Girl",
+        "trackNumber": 5,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/my-girl.txt"
+      },
+      {
+        "id": "dogfarts",
+        "title": "Dogfarts",
+        "trackNumber": 6,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": "gp/Dayglo Abortions-Dog Farts-10-03-2025.gp",
+        "tabFile": "tabs-txt/dogfarts.txt"
+      },
+      {
+        "id": "inside-my-head",
+        "title": "Inside My Head",
+        "trackNumber": 7,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/inside-my-head.txt"
+      },
+      {
+        "id": "wake-up-america",
+        "title": "Wake Up America",
+        "trackNumber": 8,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/wake-up-america.txt"
+      },
+      {
+        "id": "proud-to-be-canadian",
+        "title": "Proud To Be Canadian",
+        "trackNumber": 9,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": "gp/Dayglo Abortions-Proud To Be Canadian-10-14-2009.gp",
+        "tabFile": "tabs-txt/proud-to-be-canadian.txt"
+      },
+      {
+        "id": "stupid-world",
+        "title": "Stupid World",
+        "trackNumber": 10,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": "gp/Dayglo Abortions-Stupid World-09-09-2025.gp",
+        "tabFile": "tabs-txt/stupid-world.txt"
+      },
+      {
+        "id": "kill-the-hosers",
+        "title": "Kill The Hosers",
+        "trackNumber": 11,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": "gp/Dayglo Abortions-Kill The Hosers-10-08-2025.gp",
+        "tabFile": "tabs-txt/kill-the-hosers.txt"
+      },
+      {
+        "id": "religious-bumfucks",
+        "title": "Religious Bumfucks",
+        "trackNumber": 12,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/religious-bumfucks.txt"
+      },
+      {
+        "id": "1967",
+        "title": "1967",
+        "trackNumber": 13,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/1967.txt"
+      },
+      {
+        "id": "i-killed-mommy",
+        "title": "I Killed Mommy",
+        "trackNumber": 14,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/i-killed-mommy.txt"
+      },
+      {
+        "id": "im-my-own-god",
+        "title": "I'm My Own God",
+        "trackNumber": 15,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "used-to-be-in-love",
+        "title": "Used To Be In Love",
+        "trackNumber": 16,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/used-to-be-in-love.txt"
+      },
+      {
+        "id": "suicide",
+        "title": "Suicide",
+        "trackNumber": 17,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/suicide.txt"
+      },
+      {
+        "id": "the-idiot",
+        "title": "The Idiot",
+        "trackNumber": 18,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/the-idiot.txt"
+      },
+      {
+        "id": "germ-attack",
+        "title": "Germ Attack",
+        "trackNumber": 19,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/germ-attack.txt"
+      },
+      {
+        "id": "scared-of-people",
+        "title": "Scared Of People",
+        "trackNumber": 20,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/scared-of-people.txt"
+      },
+      {
+        "id": "black-sabbath",
+        "title": "Black Sabbath",
+        "trackNumber": 21,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/black-sabbath.txt"
+      }
+    ]
+  },
+  {
+    "id": "here-today-guano-tomorrow",
+    "title": "Here Today, Guano Tomorrow",
+    "year": 1988,
+    "cover": "images/albums/here-today-guano-tomorrow.jpg",
+    "description": "Their most polished and politically charged album of the classic era.",
+    "tracks": [
+      {
+        "id": "homophobic-sexist-cokeheads",
+        "title": "Homophobic Sexist Cokeheads",
+        "trackNumber": 1,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/homophobic-sexist-cokeheads.txt"
+      },
+      {
+        "id": "stupid-songs",
+        "title": "Stupid Songs",
+        "trackNumber": 2,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/stupid-songs.txt"
+      },
+      {
+        "id": "hide-the-hamster",
+        "title": "Hide the Hamster",
+        "trackNumber": 3,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "argh-fuck-kill",
+        "title": "Argh Fuck Kill",
+        "trackNumber": 4,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/argh-fuck-kill.txt"
+      },
+      {
+        "id": "im-gonna-be-a-shithead",
+        "title": "I'm Gonna Be a Shithead",
+        "trackNumber": 5,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "isnt-this-disgusting",
+        "title": "Isn't This Disgusting",
+        "trackNumber": 6,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": "tabs-txt/isnt-this-disgusting.txt"
+      },
+      {
+        "id": "ben-meyer",
+        "title": "Ben Meyer",
+        "trackNumber": 7,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "sacks-of-meat",
+        "title": "Sacks of Meat",
+        "trackNumber": 8,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "america-eats-her-young",
+        "title": "America Eats Her Young",
+        "trackNumber": 9,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/america-eats-her-young.txt"
+      },
+      {
+        "id": "scared-of-people",
+        "title": "Scared of People",
+        "trackNumber": 10,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/scared-of-people.txt"
+      },
+      {
+        "id": "the-spawn-of-yog-sothoth",
+        "title": "The Spawn of Yog-Sothoth",
+        "trackNumber": 11,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": "tabs-txt/the-spawn-of-yog-sothoth.txt"
+      },
+      {
+        "id": "when-the-lie-becomes-the-truth",
+        "title": "When the Lie Becomes the Truth",
+        "trackNumber": 12,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "ronald-mcraygun",
+        "title": "Ronald McRaygun",
+        "trackNumber": 13,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/ronald-mcraygun.txt"
+      }
+    ]
+  },
+  {
+    "id": "two-dogs-fucking",
+    "title": "Two Dogs Fucking",
+    "year": 1991,
+    "cover": "images/albums/two-dogs-fucking.jpg",
+    "description": "A harder, more metallic sound emerges on this provocative release.",
+    "tracks": [
+      {
+        "id": "two-dogs-fucking",
+        "title": "Two Dogs Fucking",
+        "trackNumber": 1,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "lets-party",
+        "title": "Let's Party",
+        "trackNumber": 2,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "shes-ovulating",
+        "title": "She's Ovulating",
+        "trackNumber": 3,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "cash-bash",
+        "title": "Cash Bash",
+        "trackNumber": 4,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/cash-bash.txt"
+      },
+      {
+        "id": "piss-me-off",
+        "title": "Piss Me Off",
+        "trackNumber": 5,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "euthanasia-day",
+        "title": "Euthanasia Day",
+        "trackNumber": 6,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/euthanasia-day.txt"
+      },
+      {
+        "id": "the-idiot",
+        "title": "The Idiot",
+        "trackNumber": 7,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/the-idiot.txt"
+      },
+      {
+        "id": "nuclear-supremacy",
+        "title": "Nuclear Supremacy",
+        "trackNumber": 8,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/nuclear-supremacy.txt"
+      },
+      {
+        "id": "plastic-soldiers",
+        "title": "Plastic Soldiers",
+        "trackNumber": 9,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "shit-happens",
+        "title": "Shit Happens",
+        "trackNumber": 10,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "cosmic-joke",
+        "title": "Cosmic Joke",
+        "trackNumber": 11,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "rich-bitch",
+        "title": "Rich Bitch",
+        "trackNumber": 12,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "canadian-boozehounds",
+        "title": "Canadian Boozehounds",
+        "trackNumber": 13,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "carnage",
+        "title": "Carnage",
+        "trackNumber": 14,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "white-anglo-saxon-protestant",
+        "title": "White Anglo-Saxon Protestant",
+        "trackNumber": 15,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/white-anglo-saxon-protestant.txt"
+      }
+    ]
+  },
+  {
+    "id": "little-man-in-the-canoe",
+    "title": "Little Man in the Canoe",
+    "year": 1995,
+    "cover": "images/albums/little-man-in-the-canoe.jpg",
+    "description": "A return to their punk roots with updated production values.",
+    "tracks": [
+      {
+        "id": "casting-couch",
+        "title": "Casting Couch",
+        "trackNumber": 1,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/casting-couch.txt"
+      },
+      {
+        "id": "nikki-dial",
+        "title": "Nikki Dial",
+        "trackNumber": 2,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/nikki-dial.txt"
+      },
+      {
+        "id": "man-bites-dog",
+        "title": "Man Bites Dog",
+        "trackNumber": 3,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/man-bites-dog.txt"
+      },
+      {
+        "id": "meathead",
+        "title": "Meathead",
+        "trackNumber": 4,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "little-man-in-the-canoe",
+        "title": "Little Man in the Canoe",
+        "trackNumber": 5,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/little-man-in-the-canoe.txt"
+      },
+      {
+        "id": "open-sore",
+        "title": "Open Sore",
+        "trackNumber": 6,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/open-sore.txt"
+      },
+      {
+        "id": "big-fat-cow",
+        "title": "Big Fat Cow",
+        "trackNumber": 7,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "razor-burn",
+        "title": "Razor Burn",
+        "trackNumber": 8,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "drugged-and-driving",
+        "title": "Drugged and Driving",
+        "trackNumber": 9,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": "gp/Dayglo Abortions-Drugged and Driving-09-07-2025.gp",
+        "tabFile": "tabs-txt/drugged-and-driving.txt"
+      },
+      {
+        "id": "generation-landslide-81",
+        "title": "Generation Landslide '81",
+        "trackNumber": 10,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "save-dave-from-himself",
+        "title": "Save Dave From Himself",
+        "trackNumber": 11,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "stick-it-up-your-ass",
+        "title": "Stick It Up Your Ass",
+        "trackNumber": 12,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "used-to-be-in-love",
+        "title": "Used to Be in Love",
+        "trackNumber": 13,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/used-to-be-in-love.txt"
+      },
+      {
+        "id": "squid-row",
+        "title": "Squid Row",
+        "trackNumber": 14,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      }
+    ]
+  },
+  {
+    "id": "corporate-whores",
+    "title": "Corporate Whores",
+    "year": 1996,
+    "cover": "images/albums/corporate-whores.jpg",
+    "description": "Anti-corporate punk anthems with their signature offensive humor.",
+    "tracks": [
+      {
+        "id": "corporate-whores",
+        "title": "Corporate Whores",
+        "trackNumber": 1,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/corporate-whores.txt"
+      },
+      {
+        "id": "fucking-up",
+        "title": "Fucking Up",
+        "trackNumber": 2,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "taking-drugs",
+        "title": "Taking Drugs",
+        "trackNumber": 3,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "pissed-on-another-planet",
+        "title": "Pissed on Another Planet",
+        "trackNumber": 4,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "asshole",
+        "title": "Asshole",
+        "trackNumber": 5,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "parasite",
+        "title": "Parasite",
+        "trackNumber": 6,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "sick-of-the-lies",
+        "title": "Sick of the Lies",
+        "trackNumber": 7,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "wage-slave",
+        "title": "Wage Slave",
+        "trackNumber": 8,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "stupid-junkies",
+        "title": "Stupid Junkies",
+        "trackNumber": 9,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "get-away",
+        "title": "Get Away",
+        "trackNumber": 10,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "filthy-greedy-guilt",
+        "title": "Filthy Greedy Guilt",
+        "trackNumber": 11,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "kill-kill-kill",
+        "title": "Kill Kill Kill",
+        "trackNumber": 12,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      }
+    ]
+  },
+  {
+    "id": "death-race-2000",
+    "title": "Death Race 2000",
+    "year": 1999,
+    "cover": "images/albums/death-race-2000.jpg",
+    "description": "Millennium-era fury with socially conscious punk anthems.",
+    "tracks": [
+      {
+        "id": "death-race-2000",
+        "title": "Death Race 2000",
+        "trackNumber": 1,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "1967",
+        "title": "1967",
+        "trackNumber": 2,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/1967.txt"
+      },
+      {
+        "id": "courage-in-a-can",
+        "title": "Courage in a Can",
+        "trackNumber": 3,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/courage-in-a-can.txt"
+      },
+      {
+        "id": "scientology",
+        "title": "Scientology",
+        "trackNumber": 4,
+        "hasBass": false,
+        "hasGuitar": true,
+        "gpFile": null,
+        "tabFile": "tabs-txt/scientology.txt"
+      },
+      {
+        "id": "human-garbage-can",
+        "title": "Human Garbage Can",
+        "trackNumber": 5,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "flesh-and-blood",
+        "title": "Flesh and Blood",
+        "trackNumber": 6,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "corpse-full-of-shit",
+        "title": "Corpse Full of Shit",
+        "trackNumber": 7,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "prion",
+        "title": "Prion",
+        "trackNumber": 8,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "death-machine",
+        "title": "Death Machine",
+        "trackNumber": 9,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "after-the-war",
+        "title": "After the War",
+        "trackNumber": 10,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "all-roads-lead-to-rome",
+        "title": "All Roads Lead to Rome",
+        "trackNumber": 11,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "another-bloody-sunday",
+        "title": "Another Bloody Sunday",
+        "trackNumber": 12,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "left-behind",
+        "title": "Left Behind",
+        "trackNumber": 13,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      }
+    ]
+  },
+  {
+    "id": "holy-shiite",
+    "title": "Holy Shiite",
+    "year": 2004,
+    "cover": "images/albums/holy-shiite.jpg",
+    "description": "Post-9/11 political punk with renewed aggression and purpose.",
+    "tracks": [
+      {
+        "id": "my-shit-stinks",
+        "title": "My Shit Stinks",
+        "trackNumber": 1,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "holy-shiite",
+        "title": "Holy Shiite",
+        "trackNumber": 2,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "bombs-away",
+        "title": "Bombs Away",
+        "trackNumber": 3,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "your-poetry-sucks",
+        "title": "Your Poetry Sucks",
+        "trackNumber": 4,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "slumlord",
+        "title": "Slumlord",
+        "trackNumber": 5,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "punk-rock-tried-to-kill-me",
+        "title": "Punk Rock Tried to Kill Me",
+        "trackNumber": 6,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "black-sabbath-sabbath",
+        "title": "Black Sabbath Sabbath",
+        "trackNumber": 7,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "pigs-in-space",
+        "title": "Pigs in Space",
+        "trackNumber": 8,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "more-beer",
+        "title": "More Beer",
+        "trackNumber": 9,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "woke-up-this-morning",
+        "title": "Woke Up This Morning",
+        "trackNumber": 10,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "sick-boy",
+        "title": "Sick Boy",
+        "trackNumber": 11,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "sellout",
+        "title": "Sellout",
+        "trackNumber": 12,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "the-legend-of-bobby-bird",
+        "title": "The Legend of Bobby Bird",
+        "trackNumber": 13,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "at-least-i-tried",
+        "title": "At Least I Tried",
+        "trackNumber": 14,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      }
+    ]
+  },
+  {
+    "id": "armageddon-survival-guide",
+    "title": "Armageddon Survival Guide",
+    "year": 2016,
+    "cover": "images/albums/armageddon-survival-guide.jpg",
+    "description": "A return to form after 12 years, addressing modern societal collapse.",
+    "tracks": [
+      {
+        "id": "armageddon-survival-guide",
+        "title": "Armageddon Survival Guide",
+        "trackNumber": 1,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "aliens",
+        "title": "Aliens",
+        "trackNumber": 2,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "velcro-shoes",
+        "title": "Velcro Shoes",
+        "trackNumber": 3,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "end-of-the-world",
+        "title": "End of the World",
+        "trackNumber": 4,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "sick-of-the-lies",
+        "title": "Sick of the Lies",
+        "trackNumber": 5,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "marine-life",
+        "title": "Marine Life",
+        "trackNumber": 6,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "in-your-face",
+        "title": "In Your Face",
+        "trackNumber": 7,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "left-on-the-shelf",
+        "title": "Left on the Shelf",
+        "trackNumber": 8,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "stay-away",
+        "title": "Stay Away",
+        "trackNumber": 9,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "brave-new-world",
+        "title": "Brave New World",
+        "trackNumber": 10,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "cockroaches",
+        "title": "Cockroaches",
+        "trackNumber": 11,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "outlaw",
+        "title": "Outlaw",
+        "trackNumber": 12,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "worn-out",
+        "title": "Worn Out",
+        "trackNumber": 13,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      }
+    ]
+  },
+  {
+    "id": "hate-speech",
+    "title": "Hate Speech",
+    "year": 2021,
+    "cover": "images/albums/hate-speech.jpg",
+    "description": "Their latest full-length, continuing their tradition of provocative punk rock.",
+    "tracks": [
+      {
+        "id": "hate-speech",
+        "title": "Hate Speech",
+        "trackNumber": 1,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "cancel-culture",
+        "title": "Cancel Culture",
+        "trackNumber": 2,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "white-noise",
+        "title": "White Noise",
+        "trackNumber": 3,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "neighbourhood-watch",
+        "title": "Neighbourhood Watch",
+        "trackNumber": 4,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "covid-1984",
+        "title": "Covid-1984",
+        "trackNumber": 5,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "trigger-warning",
+        "title": "Trigger Warning",
+        "trackNumber": 6,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "dead-internet-theory",
+        "title": "Dead Internet Theory",
+        "trackNumber": 7,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "thought-police",
+        "title": "Thought Police",
+        "trackNumber": 8,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "plastic-world",
+        "title": "Plastic World",
+        "trackNumber": 9,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "hashtag",
+        "title": "Hashtag",
+        "trackNumber": 10,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "blackout",
+        "title": "Blackout",
+        "trackNumber": 11,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      },
+      {
+        "id": "fuck-off-and-die",
+        "title": "Fuck Off and Die",
+        "trackNumber": 12,
+        "hasBass": false,
+        "hasGuitar": false,
+        "gpFile": null,
+        "tabFile": null
+      }
+    ]
+  }
+]

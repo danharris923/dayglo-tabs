@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dayglo Abortions Tablature - Guitar and Bass Tabs</title>
+    <meta name="description" content="The ultimate collection of Dayglo Abortions bass and guitar tabs. Browse tabs from all albums (1981-2016), singles, and EPs. Interactive tab viewer featuring punk rock classics from Canada's legendary hardcore band.">
+    <meta name="keywords" content="Dayglo Abortions tabs, Dayglo Abortions bass tabs, Dayglo Abortions guitar tabs, Murray Acton guitar, Canadian punk tabs, hardcore punk tabs, Feed Us a Fetus tabs, Here Today Guano Tomorrow tabs">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://dayglotabs.com/">
+    <meta property="og:title" content="Dayglo Abortions Tablature - Guitar and Bass Tabs">
+    <meta property="og:description" content="The ultimate collection of Dayglo Abortions guitar and bass tabs.">
+    <meta property="og:image" content="https://dayglotabs.com/images/dayglo.png">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Dayglo Abortions Tabs">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://dayglotabs.com/">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MusicGroup",
+      "name": "Dayglo Abortions",
+      "description": "Canadian hardcore punk band from Victoria, British Columbia",
+      "foundingDate": "1979",
+      "genre": ["Hardcore Punk", "Punk Rock"],
+      "member": [
+        {"@type": "Person", "name": "Murray Acton", "roleName": "Guitar, Vocals"},
+        {"@type": "Person", "name": "Jesus Bonehead", "roleName": "Drums"}
+      ]
+    }
+    </script>
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="container">
+                <div class="header-content">
+                    <h1 class="logo">
+                        <span class="logo-text">Dayglo Abortions Tablature</span>
+                    </h1>
+                </div>
+            </div>
+        </header>
+
+        <main class="main">
+            <div class="container">
+                <!-- Hero -->
+                <section class="hero">
+                    <h2 class="hero-title-text">dayglo abortions</h2>
+
+                    <!-- Search -->
+                    <div class="search-container">
+                        <input type="text" id="search-input" class="search-input" placeholder="Search songs, albums, or tabs...">
+                        <button id="search-button" class="search-button">
+                            <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
+                            </svg>
+                        </button>
+                    </div>
+
+                    <!-- Stats -->
+                    <div class="hero-stats">
+                        <span class="stat">{{ALBUM_COUNT}} Albums</span>
+                        <span class="stat">{{SONG_COUNT}} Songs</span>
+                        <span class="stat">{{TAB_COUNT}} Tabs</span>
+                    </div>
+                </section>
+
+                <!-- Albums Grid -->
+                <section class="albums-grid">
+                    {{ALBUM_CARDS}}
+                </section>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container">
+                <p>&copy; 2024 Dayglo Abortions Tabs. Tabs compiled from various sources.</p>
+                <p style="margin-top: 10px;"><a href="https://nomeanstabs.com" style="color: var(--text-muted);">NoMeansNo Tabs</a></p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="/js/search.js"></script>
+</body>
+</html>
